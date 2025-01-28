@@ -55,8 +55,8 @@ This project was developed as a **college assignment submission** to demonstrate
 
 ## 📞 **Contact**  
 For any inquiries, feel free to reach out:  
-- **Email**: [your email here]  
-- **LinkedIn**: [your profile link here]  
+- **Email**: [farizkadri3@gmail.com]  
+
 
 ---  
 
